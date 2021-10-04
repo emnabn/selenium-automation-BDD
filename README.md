@@ -61,6 +61,7 @@ La solution proposée est "frwTNRWebGherkin" basée sur Selenium webdriver, cucu
   - stepDefinitions
   - pageObjects
   - reports
+  
 #  Où sont écrits les tests ?
 
 Les tests sont écrits dans le repertoire src/spec/feature avec le syntaxe Gherkin
